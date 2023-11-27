@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @splishy-splash
 - 👀 I’m interested in building interesting tools for communities.
-- 🌱 I’m currently learning Reverse Engineering and Python.
+- 🌱 I’m currently interested in Reverse Engineering and Python.
 - 💞️ I’m looking to collaborate on pretty much any and everything.
 - 📫 You can reach me on discord at splishsplash#8928
           
